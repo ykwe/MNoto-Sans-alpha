@@ -23,7 +23,7 @@ Please use it when creating chord charts.
 
 Some characters have different input methods than usual. See below.
 
-<img width="700" alt="Image" src=./MNSa_image.png />
+<img width="700" alt="Image" src=./img/MNSa_image.png />
 
 ### Symbols
 * Sharp (#)
