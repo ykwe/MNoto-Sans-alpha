@@ -60,4 +60,4 @@ C#△7やGbmM7-5などの（やや複雑な）表記にも対応しています�
 
 ## License
 
-SIL Open Font Licenseに基づいています。
+[SIL Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)に基づいています。
