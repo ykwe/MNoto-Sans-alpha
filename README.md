@@ -10,6 +10,11 @@ C#△7やGbmM7-5などの（やや複雑な）表記にも対応しています�
 
 （通常の文章入力には向いていません。）
 
+## 表示例
+<img width="700" alt="Image" src=./img/MNSa_2.png />
+<img width="700" alt="Image" src=./img/MNSa_3.png />
+
+
 ## Download
 
 [こちらからどうぞ](font)
