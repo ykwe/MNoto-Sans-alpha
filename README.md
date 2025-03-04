@@ -1,14 +1,13 @@
 [JP](README.md) / [EN](README-EN.md)
 
-## MNoto Sans alphaについて
+### MNoto Sans alphaについて
 
-///
+説明
 
 
 ### フォントのダウンロード
 
-///
-[最終リリース](https://github.com/fontworks-fonts/RocknRoll/tree/master/fonts/ttf)
+[download](https://github.com/fontworks-fonts/RocknRoll/tree/master/fonts/ttf)
 
 
 ### ライセンス
