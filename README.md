@@ -1,6 +1,4 @@
-[English](https://github.com/fontworks-fonts/RocknRoll) /[日本語](README-JP.md) 
-
-![RocknRollOne-Regular](./image_RocknRoll.png)
+[JP](README.md) / [EN](README-EN.md)
 
 ## MNoto Sans alphaについて
 
