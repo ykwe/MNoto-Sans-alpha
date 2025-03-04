@@ -1,10 +1,14 @@
 [JP](README.md) / [EN](README-EN.md) 
 
-# MNoto Sans alpha
+# MNoto Sans (alpha)
 
 ## About
 
-description
+This is a font designed for easy-to-read display of musical chord progressions.
+It supports (somewhat complex) notations such as C#△7 and GbmM7-5.
+Please use it when creating chord charts.
+
+(Not suitable for regular text input.)
 
 
 ## Download
