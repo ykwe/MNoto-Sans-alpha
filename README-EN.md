@@ -10,6 +10,9 @@ Please use it when creating chord charts.
 
 (Not suitable for regular text input.)
 
+## Display examples
+
+<img width="700" alt="Image" src=./img/MNSa_3.png />
 
 ## Download
 
