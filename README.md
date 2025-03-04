@@ -9,7 +9,7 @@
 
 ## Download
 
-[Here](https://github.com/fontworks-fonts/RocknRoll/tree/master/fonts/ttf)
+[Here](font)
 
 
 ## License
