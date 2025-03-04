@@ -1,15 +1,17 @@
 [JP](README.md) / [EN](README-EN.md)
 
-### MNoto Sans alphaについて
+# MNoto Sans alpha
+
+## About
 
 説明
 
 
-### フォントのダウンロード
+## Download
 
-[download](https://github.com/fontworks-fonts/RocknRoll/tree/master/fonts/ttf)
+[Here](https://github.com/fontworks-fonts/RocknRoll/tree/master/fonts/ttf)
 
 
-### ライセンス
+## License
 
 * SIL Open Font Licenseに基づいています。
