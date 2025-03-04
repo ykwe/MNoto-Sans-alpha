@@ -1,8 +1,8 @@
-[English](https://github.com/fontworks-fonts/RocknRoll) /[日本語](README.md) 
+[JP](README.md) / [EN](README-EN.md) 
 
-## MNoto Sans alpha
+### MNoto Sans alpha
 
-RocknRoll is an original pop-style font. The st
+discription.
 
 
 ### Download the font
