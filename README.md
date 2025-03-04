@@ -14,4 +14,4 @@
 
 ## License
 
-* SIL Open Font Licenseに基づいています。
+SIL Open Font Licenseに基づいています。
