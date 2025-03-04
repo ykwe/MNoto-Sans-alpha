@@ -12,8 +12,6 @@ C#△7やGbmM7-5などの（やや複雑な）表記にも対応しています�
 
 ## 表示例
 <img width="700" alt="Image" src=./img/MNSa_3.png />
-<img width="700" alt="Image" src=./img/MNSa_2.png />
-
 
 ## Download
 
