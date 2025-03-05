@@ -20,13 +20,13 @@ C#△7やGbmM7-5などの（やや複雑な）表記にも対応しています�
 * 個人制作のalpha版です。問題や不具合があればお知らせ下さい
 
 ## 表示例
-<img width="700" alt="Image" src=./img/MNSa_3.png />
+<img width="500" alt="Image" src=./img/MNSa_3.png />
 
 ## 記号や一部文字の入力方法
 
 一部の文字は入力方法が通常と異なります。以下をご覧下さい。
 
-<img width="700" alt="Image" src=./img/MNSa_image.png />
+<img width="500" alt="Image" src=./img/MNSa_image.png />
 
 ### 記号
 * シャープ（#）
