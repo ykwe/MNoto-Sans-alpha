@@ -1,6 +1,6 @@
 [JP](README.md) / [EN](README-EN.md)
 
-# MNoto Sans (alpha)
+# こんにちは。MNoto Sans (alpha)です
 
 ## Download
 
