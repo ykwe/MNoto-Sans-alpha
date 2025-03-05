@@ -1,6 +1,6 @@
 [JP](README.md) / [EN](README-EN.md) 
 
-# Hello. I'm "MNoto Sans (alpha)"
+# Hello👋 I'm MNoto Sans (alpha)
 
 ## About
 
