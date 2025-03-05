@@ -9,7 +9,7 @@ It supports (somewhat complex) notations such as C#△7 and GbmM7-5.
 Please use it when creating chord charts.  
 
 * Not suitable for regular text input.
-* This typeface is based on Noto Sans. I would like to thank the Noto Sans team for creating and publishing a great typeface.
+* This typeface is based on [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans). I would like to thank the Noto Sans team for creating and publishing a great typeface.
 * This is an alpha version of a personal work. Please let me know if you find any problems or bugs.
 
 ## Display examples
