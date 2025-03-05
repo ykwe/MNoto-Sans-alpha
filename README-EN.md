@@ -30,9 +30,9 @@ Some characters have different input methods than usual. See below.
 ### Symbols
 * Sharp (#)
   - `[`
+
 * Flat (♭)
   - `]` or `b`
-
 * Major symbol (△)
   - `^`
 * Diminished symbol (○)
@@ -71,7 +71,7 @@ Some characters have different input methods than usual. See below.
   - `<`
 * Superscript "/"
   - `shift` + `/`（`?`）
-* Superscript"( )"
+* Superscript "( )"
   - `{` `}`
 
 ## License
