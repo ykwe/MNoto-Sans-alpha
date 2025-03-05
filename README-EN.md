@@ -38,25 +38,39 @@ Some characters have different input methods than usual. See below.
 * Diminished symbol (○)
   - `@`
 * Half-diminished symbol (Φ)
-  - `shift` + `@`
+  - `shift` + `@`（`` ` ``）
 
 ### Regular Numbers
 * 1〜6、8、9、0
   - `shift` + `number`
+    - 1：`!`
+      
+    - 2：`"`
+    - 3：`#`
+    - 4：`$`
+    - 5：`%`
+    - 6：`&`
+    - 8：`(`
+    - 9：`)`
 
 * Numbers are superscript by default.
-* However, only `7` is regular size by default.
+* However, `7` and `0` is regular size by default.
 
 ### Superscript Characters
 * Superscript "7"
-  - `shift` + `7`
+  - `shift` + `7`（`'`）
   
 * Superscript "o" / "i" / "t" / "h"
   - `shift` + `o` / `i` / `t` / `h`
+    - o：`O`
+      
+    - i：`I`
+    - t：`T`
+    - h：`H`
 * Superscript "m"
-  - `shift` + `<`
+  - `<`
 * Superscript "/"
-  - `shift` + `/`
+  - `shift` + `/`（`?`）
 * Superscript"( )"
   - `{` `}`
 
