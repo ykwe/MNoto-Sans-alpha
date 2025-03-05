@@ -7,7 +7,7 @@
 [こちらからどうぞ](font/MNotoSans-alpha-ExtraBold.ttf)
 * 「Download Raw File」からダウンロードできます
   
-<img width="200" alt="Image" src=./img/dl.png />
+<kbd><img width="200" alt="Image" src=./img/dl.png /></kbd>
 
 ## About
 
