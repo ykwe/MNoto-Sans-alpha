@@ -2,6 +2,10 @@
 
 # MNoto Sans (alpha)
 
+## Download
+
+[こちらからどうぞ](font)
+
 ## About
 
 音楽のコード進行を表記する際、読みやすく表示ができるフォントです。  
@@ -14,10 +18,6 @@ C#△7やGbmM7-5などの（やや複雑な）表記にも対応しています�
 
 ## 表示例
 <img width="700" alt="Image" src=./img/MNSa_3.png />
-
-## Download
-
-[こちらからどうぞ](font)
 
 ## 記号や一部文字の入力方法
 
