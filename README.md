@@ -26,7 +26,7 @@ C#△7やGbmM7-5などの（やや複雑な）表記にも対応しています�
 
 一部の文字は入力方法が通常と異なります。以下をご覧下さい。
 
-<img width="500" alt="Image" src=./img/MNSa_image._2png />
+<img width="500" alt="Image" src=./img/MNSa_image_2.png />
 
 ### 記号
 * シャープ（#）
